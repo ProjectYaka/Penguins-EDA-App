@@ -1,0 +1,14 @@
+[project]
+name = "penguins-eda-app"
+version = "0.1.0"
+description = "Interactive Streamlit EDA app for the Palmer Penguins dataset"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib",
+    "numpy",
+    "palmerpenguins",
+    "pandas",
+    "seaborn",
+    "streamlit",
+]
