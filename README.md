@@ -33,8 +33,8 @@ This project uses [`uv`](https://docs.astral.sh/uv/) for dependency management.
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
-cd penguins-eda-app
+git clone https://github.com/ProjectYaka/Penguins-EDA-App.git
+cd Penguins-EDA-App
 
 # 2. Install dependencies (creates a .venv automatically)
 uv sync
